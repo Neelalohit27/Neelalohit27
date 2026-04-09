@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 Aspiring Machine Learning & Full Stack Developer<br>💻 Building scalable web apps and intelligent systems<br>📊 Passionate about data, AI, and solving real-world problems<br>🌱 Currently exploring advanced ML, system design & modern web stacks<br>🤝 Open to collaborations on impactful tech projects<br>⚡ Always learning, always building
 
 
